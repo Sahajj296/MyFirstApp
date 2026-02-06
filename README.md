@@ -86,6 +86,30 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
+## 🔧 Having Build or Cache Issues?
+
+If you're experiencing:
+- White/blank screen on app launch
+- App not reflecting latest code changes
+- Metro bundler cache issues
+- Gradle build failures
+
+**Check our comprehensive [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) guide** for deep clean and recovery steps.
+
+**Quick Fix:**
+```bash
+# Windows
+npm run clean:full
+
+# macOS/Linux  
+npm run clean:full:unix
+
+# Then reinstall and rebuild
+npm install
+npm run start:clean
+# In new terminal: npm run android:clean
+```
+
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
