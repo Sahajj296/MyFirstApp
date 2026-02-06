@@ -48,7 +48,6 @@ function App() {
             component={UserTypeScreen}
             options={{
               title: 'Choose Account Type',
-              headerBackTitleVisible: false,
             }}
           />
           <Stack.Screen
@@ -56,7 +55,6 @@ function App() {
             component={SignUpScreen}
             options={{
               title: 'Sign Up',
-              headerBackTitleVisible: false,
             }}
           />
         </Stack.Navigator>

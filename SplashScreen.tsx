@@ -5,7 +5,6 @@ import {
   TouchableOpacity,
   StyleSheet,
   Dimensions,
-  Image,
 } from 'react-native';
 import type {NativeStackScreenProps} from '@react-navigation/native-stack';
 
