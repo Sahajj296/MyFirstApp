@@ -1,0 +1,1449 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/continue_with_google.png",
+      "sha1": "ed7d563765e8345669627348fb47293ed464905c"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_rd_ctn@1x.png",
+      "sha1": "eed33d4aee45205d927e76a78989a13129f38cba"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_rd_na@1x.png",
+      "sha1": "ef73d537346b084bc180bcfd195b56fa264bd628"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_rd_SI@1x.png",
+      "sha1": "14720eefcbc8ff4bf6f7b5c0f6812a66b5d14e57"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_rd_SU@1x.png",
+      "sha1": "0b20116b26d776579c9ef0a50ae04c7a814d1ed9"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_sq_ctn@1x.png",
+      "sha1": "0301a89d596c40e9b1c8bd6ec19d532329170478"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_sq_na@1x.png",
+      "sha1": "cb81e44ca9585331a4b3431b4edcc8d50bf5070a"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_sq_SI@1x.png",
+      "sha1": "b7f9a6e9c976cf29959c940f14069da79f8a231d"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/dark/android_dark_sq_SU@1x.png",
+      "sha1": "4c441838334410feb60392e0462b05b2f36b74f8"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_rd_ctn@1x.png",
+      "sha1": "ed7d563765e8345669627348fb47293ed464905c"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_rd_na@1x.png",
+      "sha1": "7888573cde70568d954a76c7e6b01c0cf6173c0c"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_rd_SI@1x.png",
+      "sha1": "ed17503b10665fcc7af8ebbf838c3cced60ff941"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_rd_SU@1x.png",
+      "sha1": "1ce3972b9adbfd074dd0dbabfb26812456004b78"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_sq_ctn@1x.png",
+      "sha1": "3e83e52042e4a30e922ce39f707a71434a876ce4"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_sq_na@1x.png",
+      "sha1": "c38f7a42c9633da1b9ac12cfa0ad0af3ef15e6fc"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_sq_SI@1x.png",
+      "sha1": "0f246f3163ca2a0ef3b3747641e066f9a44599a2"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/light/android_light_sq_SU@1x.png",
+      "sha1": "f32ffeecd022f3cf42fcfcdb8b44288171a93849"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_rd_ctn@1x.png",
+      "sha1": "4f5c1e20783d7aaeb04152d78656aeeb43f477fa"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_rd_na@1x.png",
+      "sha1": "fc43e1d8193cf87883c5c3a228fd50d380c41846"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_rd_SI@1x.png",
+      "sha1": "236bae9ab3461d391a4b72fac5be48c62d11cb4c"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_rd_SU@1x.png",
+      "sha1": "9fb000aada51658a060c1a3dd3686fba68a099ac"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_sq_ctn@1x.png",
+      "sha1": "8fcf9e21b81c629e72d13305c5de4bee7064b284"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_sq_na@1x.png",
+      "sha1": "61540d47aa665d0b4c0c88f821778b897b5464c5"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_sq_SI@1x.png",
+      "sha1": "5e6fa7eaefbb5e77f5f8a78d3ac8cd78daea8f07"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@1x/neutral/android_neutral_sq_SU@1x.png",
+      "sha1": "e7aed74ac65b8e4e564047cdfdc192b93d741edc"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_rd_ctn@2x.png",
+      "sha1": "e0f1ea0945b9da0c802b5af5856f7d2d140b5008"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_rd_na@2x.png",
+      "sha1": "f1cab11d8267ec331ea287573e609da7f3c35d03"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_rd_SI@2x.png",
+      "sha1": "24c485231f14a22b800ca04f34d3a50067537931"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_rd_SU@2x.png",
+      "sha1": "94980b6360ec79be1eab17676032c3356312538a"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_sq_ctn@2x.png",
+      "sha1": "0982b960a51414e5f529d1db840210f35b353462"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_sq_na@2x.png",
+      "sha1": "37a4d1da51117dd9f778bb4fa7ce3197315b01d6"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_sq_SI@2x.png",
+      "sha1": "41534b78d8fab3ed32124d964aac73e1b6141b6f"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/dark/android_dark_sq_SU@2x.png",
+      "sha1": "fbb4fa049d25f0da1945ad09db2ecae31d9a0f36"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_rd_ctn@2x.png",
+      "sha1": "61a47a0e73304b46a34aaa7bea27326cc5562b3b"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_rd_na@2x.png",
+      "sha1": "965241ac9ef884c00be4744e3156ec8b2c7159db"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_rd_SI@2x.png",
+      "sha1": "d638f9f13aa7eacbed7d25b33c55ff5562a272db"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_rd_SU@2x.png",
+      "sha1": "f593cef49757cab9f277050f8f749859ebed6025"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_sq_ctn@2x.png",
+      "sha1": "e1bd1b8480ae2ac85d2f4a12dc6fffee65e0ef59"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_sq_na@2x.png",
+      "sha1": "7dd75770e18656c7193d9367cbf0b038392c77bd"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_sq_SI@2x.png",
+      "sha1": "7067f462aa3bbbc4ea53fcc4b09fb7cd67a5c776"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/light/android_light_sq_SU@2x.png",
+      "sha1": "d44bb45bce4152753233418e12a3c07d7e6755f6"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_rd_ctn@2x.png",
+      "sha1": "51a05768e51091616ed9dddd25aa0f9f98690c79"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_rd_na@2x.png",
+      "sha1": "70cb9a6dd902a7527dedb93e1a2b6a9bb6b3b203"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_rd_SI@2x.png",
+      "sha1": "065b3d4844de9fa2db909739199d6483301a82ba"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_rd_SU@2x.png",
+      "sha1": "503d923ed9dc6283d4cfda6cd16156a02e527037"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_sq_ctn@2x.png",
+      "sha1": "f65d5bb9d7c03e6c46258d41f5ceb77c97658f35"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_sq_na@2x.png",
+      "sha1": "6d27c2b6a1e3e15e6dcb5c4796aead239c8a2fbb"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_sq_SI@2x.png",
+      "sha1": "ded4b78909210d06cc013afa6603082ff79edc45"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@2x/neutral/android_neutral_sq_SU@2x.png",
+      "sha1": "f1ba098dedb82b893006b7888552947517296cd9"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_rd_ctn@3x.png",
+      "sha1": "a99af702f1526ee674584e931e9480a4f41931f5"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_rd_na@3x.png",
+      "sha1": "9112bdaf5382b2681901fb498a42ca70c1ace7e7"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_rd_SI@3x.png",
+      "sha1": "cf42f925bb7c54793c197863e33a8e7303c150e5"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_rd_SU@3x.png",
+      "sha1": "9fde07bda7845b04c80da6e821d9586e4d27a0f8"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_sq_ctn@3x.png",
+      "sha1": "b3c230a1f736840d30a72d77d586ea438571567e"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_sq_na@3x.png",
+      "sha1": "76c41c3130837089c8c7cafe9836407abb81d514"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_sq_SI@3x.png",
+      "sha1": "4743106859d083cf6b778423709c14900b189fe1"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/dark/android_dark_sq_SU@3x.png",
+      "sha1": "4de9850b086df411d3fe920d7cca216cf943cabf"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_rd_ctn@3x.png",
+      "sha1": "5a9d0d8d04f1af5dc4ae629a833cad994b2f89c8"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_rd_na@3x.png",
+      "sha1": "e61fe5f3202c1495c482116c462f3cabdf276bba"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_rd_SI@3x.png",
+      "sha1": "26432fb5a2917b91b0a95ead98fd0d37bade1e90"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_rd_SU@3x.png",
+      "sha1": "b27fd0481d4320c35c9d781287903120ec1c12a5"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_sq_ctn@3x.png",
+      "sha1": "2d63f114a22a2c60fd4b0248a99fea0721daf847"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_sq_na@3x.png",
+      "sha1": "d0fa606eeb5166998d76ef9c0caf2a745d639dc5"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_sq_SI@3x.png",
+      "sha1": "d8550257024ac210aa1bda151119e4c1a17eee31"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/light/android_light_sq_SU@3x.png",
+      "sha1": "0f74a89cc09ea25e1a0dde12c3e111b7d09ca05a"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_rd_ctn@3x.png",
+      "sha1": "31633b101b0d113223093b7f2d0cc8a6a7b95009"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_rd_na@3x.png",
+      "sha1": "2a972d5b39783714ddea177116fad4077203373e"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_rd_SI@3x.png",
+      "sha1": "77d8f1027071b0a5eed9ffa38a2d0a0ff35eaabb"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_rd_SU@3x.png",
+      "sha1": "bb785658631a18d9d002cea9b4d0e626b4339fff"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_sq_ctn@3x.png",
+      "sha1": "7fe0700d90f547dd5d31fe4973c944a78d03404f"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_sq_na@3x.png",
+      "sha1": "de6985e31fdbfb0044973c1a7bae8fb39805cf2e"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_sq_SI@3x.png",
+      "sha1": "d0c9eba0090ba6a610f5b2bbbc2118920d6674a5"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@3x/neutral/android_neutral_sq_SU@3x.png",
+      "sha1": "2a074c8ed6102576adf7799cdadc0afea89b8f24"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_rd_ctn@4x.png",
+      "sha1": "8bf8fd1e881902c692d12fd0575d013f894ba7c1"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_rd_na@4x.png",
+      "sha1": "1cf57650da3227931ebd642ee94c10af30ccf7a3"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_rd_SI@4x.png",
+      "sha1": "aa4fd43fe29063deaccc7871cc82cb1e32313b4d"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_rd_SU@4x.png",
+      "sha1": "3cb60013bdbb9cfad294d2430a36de6e3a5329ab"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_sq_ctn@4x.png",
+      "sha1": "a8ddfdedfd1c2a75a7f717eb0de6501d6370c3f8"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_sq_na@4x.png",
+      "sha1": "c6914e1f072627be17396eeb7dd0aaa376a3e0be"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_sq_SI@4x.png",
+      "sha1": "2eb9b6b4884d9529b44242685abf301586e8c10b"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/dark/android_dark_sq_SU@4x.png",
+      "sha1": "72333895e8db9a18f0389a461df42d3055e31045"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_rd_ctn@4x.png",
+      "sha1": "cbb0e733f41bcfe46e6c2077f3e97078f06f00cc"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_rd_na@4x.png",
+      "sha1": "991dbcd1cd4ad01aff8ed5ef17bdb52fc404e431"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_rd_SI@4x.png",
+      "sha1": "87c03714313c10fe272ad7b6671622109b875d7f"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_rd_SU@4x.png",
+      "sha1": "27d6caf35300c703747f616e1b03d1694058abfc"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_sq_ctn@4x.png",
+      "sha1": "04600196e668672845dbb155176ba1b8e19f7114"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_sq_na@4x.png",
+      "sha1": "3e65238e47a0f9821fc67d87d5ded57a427d03ce"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_sq_SI@4x.png",
+      "sha1": "bc9183051b86611d27450326ec369943523f617f"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/light/android_light_sq_SU@4x.png",
+      "sha1": "979e899f2ca4b3bc8d9aadbe7cae52ee5b119497"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_rd_ctn@4x.png",
+      "sha1": "f22588ce6db34bb2615c2e1c4b8490dea35c0541"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_rd_na@4x.png",
+      "sha1": "669540a9a8a05c0fbe88d5186cbb95bfd806f01f"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_rd_SI@4x.png",
+      "sha1": "57529f41fef8c9828fd31bcdc82f6e20cea8edc0"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_rd_SU@4x.png",
+      "sha1": "62f4364d2b35c674b72de84bd7494c00dfe1dc27"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_sq_ctn@4x.png",
+      "sha1": "a1694afc91ea8aa6bee3f8bd7f4ff55f40eb1c06"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_sq_na@4x.png",
+      "sha1": "ef7e292b898d2cddecf256ad067c4f487a6f05d4"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_sq_SI@4x.png",
+      "sha1": "3c91b7b271c3968efacc703a9464125d0266dae0"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/png@4x/neutral/android_neutral_sq_SU@4x.png",
+      "sha1": "b423b568bb0885751197c78e326844b4c14cf63b"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_rd_ctn.svg",
+      "sha1": "d7e41d60faa31472148d0bb51b7f2ef3cf39681f"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_rd_na.svg",
+      "sha1": "9459a524232eea2bb26e3095f555075ea027b0ca"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_rd_SI.svg",
+      "sha1": "d84f43a78095184d18114688d3359017205c8bd2"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_rd_SU.svg",
+      "sha1": "63a6471f90ce3f751baf2edfab1d151de396b9dd"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_sq_ctn.svg",
+      "sha1": "32aec6bf501bf8223fa018027f6a3c55b3cb1a1d"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_sq_na.svg",
+      "sha1": "ccf57ee5bee9a520354470549e97df917235aba9"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_sq_SI.svg",
+      "sha1": "84d5d22e2cfbb80b152c05dbfcebd031a60c1641"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/dark/android_dark_sq_SU.svg",
+      "sha1": "541dba829feb061d487768e2b5973d7b134a7b50"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_rd_ctn.svg",
+      "sha1": "88ab5056cb9aaac58cb159aec74c2cdd1fd34714"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_rd_na.svg",
+      "sha1": "fad5b6ecfbdfb5adc6aaa83bf20f4e45ac6ecb35"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_rd_SI.svg",
+      "sha1": "7186e78e739e92f14de57e9118e70ed55a2f086c"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_rd_SU.svg",
+      "sha1": "726ab53a8e6dd662a3942f1adde7cb85c87b1427"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_sq_ctn.svg",
+      "sha1": "24a9bf674d36565dacc3433497fa1ee3433cf6c1"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_sq_na.svg",
+      "sha1": "fb08c3d565eea163ede39209795a24c54e2dbb53"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_sq_SI.svg",
+      "sha1": "4e14e94b4915e7398f62d20836fc7117719fc1ed"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/light/android_light_sq_SU.svg",
+      "sha1": "1c0e07d6ba31bb1128a8047050d9984130cf4b12"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_rd_ctn.svg",
+      "sha1": "5c82a5763da9e6ef272cdaa44dff3d8036e60db8"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_rd_na.svg",
+      "sha1": "315bf2f5d840f94c70b6fc599a15e4d5817f9e15"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_rd_SI.svg",
+      "sha1": "066c181972a92878a2f102eee7f6077c66d463e5"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_rd_SU.svg",
+      "sha1": "63a78657c5add935d67625654b19b81f64de7190"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_sq_ctn.svg",
+      "sha1": "fd56ce6146bb519a44cbae19d0eb4604fa3d3e47"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_sq_na.svg",
+      "sha1": "73374e45e86ab78028955185d837cb3881d38c13"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_sq_SI.svg",
+      "sha1": "8e99e23df024c57c73f629be442ef56346b9cf28"
+    },
+    {
+      "path": "assets/google/signin-assets/Android/svg/neutral/android_neutral_sq_SU.svg",
+      "sha1": "95e3c784b32efd04b46be73b76f77991a8758a19"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_rd_ctn@1x.png",
+      "sha1": "8b197b11d1e0849765818b634c7bddab2cecc6c2"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_rd_na@1x.png",
+      "sha1": "c4e8b0917dee29d163b23fb1e7966e7d6f7ac8e1"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_rd_SI@1x.png",
+      "sha1": "16ee1c19d05f287f8bb4b6c52de033ec3689f9ad"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_rd_SU@1x.png",
+      "sha1": "4b745d473072cdc9e157b95a402e1a2394e068cb"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_sq_ctn@1x.png",
+      "sha1": "5b7c19e0fcd7ff3a5cafad0392c948d9379b1564"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_sq_na@1x.png",
+      "sha1": "4194a1253c405ef068441da00332aed38e658a42"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_sq_SI@1x.png",
+      "sha1": "638293b667654c15064acf7b66be59d51d7203b7"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/dark/ios_dark_sq_SU@1x.png",
+      "sha1": "93a02ea34c7c42347da8af69293a986c16ff5dd6"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_ctn.svg",
+      "sha1": "dadf9bb415c0b1973bcd1f38015a8b8c2523948d"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_ctn@1x.png",
+      "sha1": "e846661e50312446ce47c406def13a35c07cf31c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_na.svg",
+      "sha1": "19857736aec1bb19a7c198aefb26b31e09233528"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_na@1x.png",
+      "sha1": "3b505d1bab7e7c4b784e4819aa12048d1169dadf"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_SI.svg",
+      "sha1": "437ee3d21ffcf45d3fd632e3caa8df47c03fe401"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_SI@1x.png",
+      "sha1": "b46779af67fb03bf051974a52cc074a917e33fff"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_SU.svg",
+      "sha1": "bfe38292f9b1d4543c278b4712fa198bf8149fff"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_rd_SU@1x.png",
+      "sha1": "c0cd1049541a6ce61580a882a0c5a2cc60e3f823"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_ctn.svg",
+      "sha1": "7ec6b09c0e703dfdfa2099ccdea939d1451461de"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_ctn@1x.png",
+      "sha1": "de80edf1c51ab35ae5336a3721d357aa0519a8ee"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_na.svg",
+      "sha1": "c54cbc2297e1a8f9bafaeddf903e09ae134aa0ca"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_na@1x.png",
+      "sha1": "2eb81c8923bcaaf3ecdf9593e02d435b37c9f8fd"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_SI.svg",
+      "sha1": "546189516e4e67ba6e9c4728ecc8dcd795bd7db9"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_SI@1x.png",
+      "sha1": "5cbdf2cccd6feaaf224ed94a63d56ac1cad8d576"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_SU.svg",
+      "sha1": "db188e990873021b420e1ea4d4bee8e422ad7b20"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/light/ios_light_sq_SU@1x.png",
+      "sha1": "207a157a5e9ad0bb5e6948217065ffbb92d1f65f"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_rd_ctn@1x.png",
+      "sha1": "95e1af7d18e71616b7f576fc5101c9f9bdbfaeda"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_rd_na@1x.png",
+      "sha1": "90189990d3b9c1c10bd2f1c03cd2958e27105bf9"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_rd_SI@1x.png",
+      "sha1": "6646b3037564c96e701d316b0d397ac567829624"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_rd_SU@1x.png",
+      "sha1": "5e8909a6ee757482fc5cf4174928060facc8b1af"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_sq_ctn@1x.png",
+      "sha1": "bb1978afabfe6146f543231ba797e20ba3e2f1bb"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_sq_na@1x.png",
+      "sha1": "4845b9068feb3beabd10ec77ec5869a3a57547e4"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_sq_SI@1x.png",
+      "sha1": "33fda108caa6664d92b7cbbb3410d087c90cc2a2"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@1x/neutral/ios_neutral_sq_SU@1x.png",
+      "sha1": "da31cff17f7cae0943b484a3656147b24a42c5ea"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_rd_ctn@2x.png",
+      "sha1": "f3e54ead8fad0bf2158cb03d22853631207a3872"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_rd_na@2x.png",
+      "sha1": "1361040f16381dc8fb9bc0644c7c3a6f6d5c429e"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_rd_SI@2x.png",
+      "sha1": "8e693382c1fc29751a534fc5b8475527b8b1069b"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_rd_SU@2x.png",
+      "sha1": "3a04b66db54df45e27456c7aba71d6ec1d46856e"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_sq_ctn@2x.png",
+      "sha1": "736972b791c34833120c099c76e85cf50b8f1a2b"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_sq_na@2x.png",
+      "sha1": "a1aa2d814e3891accba12618a1df999d045dc32b"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_sq_SI@2x.png",
+      "sha1": "df9da73db5e399a62ec553361de3f5546221d96d"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/dark/ios_dark_sq_SU@2x.png",
+      "sha1": "2accb490d0d511677f915a1276c90928d786220f"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_rd_ctn@2x.png",
+      "sha1": "7cfa545dd2874e62315c6a0e7962666fb7f29c04"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_rd_na@2x.png",
+      "sha1": "2d42459b4cc1ce7e5f44be9183a16aeb9b66d978"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_rd_SI@2x.png",
+      "sha1": "4ed1a32587b476821d4b677d0c3129f766452f18"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_rd_SU@2x.png",
+      "sha1": "79cf8dc1b1b9116a82cbee276527b7aa5fb6fdfc"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_sq_ctn@2x.png",
+      "sha1": "2acfed143403c8c02b6eb88e512b693cc6217c6f"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_sq_na@2x.png",
+      "sha1": "510018cb1aea148a5e69305c0ec49684561feea4"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_sq_SI@2x.png",
+      "sha1": "01bb0f2e0fa85e8c26dcc038ffe0876dd8f52ecb"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/light/ios_light_sq_SU@2x.png",
+      "sha1": "57af1aca0e2bf3fc6daec354a4bf7eded81aa78b"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_rd_ctn@2x.png",
+      "sha1": "1e89e2b37e4b5c5fbf1071946af2578176586548"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_rd_na@2x.png",
+      "sha1": "ba7869a912636d548883c67a21c58a02a8f205ba"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_rd_SI@2x.png",
+      "sha1": "2101bdc3b941802edc7027391d4210be729890bf"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_rd_SU@2x.png",
+      "sha1": "c4ad809f818636000a7d6915c0e3f91f61195034"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_sq_ctn@2x.png",
+      "sha1": "cf678dffd4fda97cbb3481b59f0c4280489c7e9d"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_sq_na@2x.png",
+      "sha1": "1ed9e1dd7e0fd79e587c41057bc57b4700322574"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_sq_SI@2x.png",
+      "sha1": "91a6aaf69813bdf52db94fb692f4f7af5d7a8530"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@2x/neutral/ios_neutral_sq_SU@2x.png",
+      "sha1": "36250ad263148c058e172c4feb94e757f6bf5a99"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_rd_ctn@3x.png",
+      "sha1": "855b0fd3dbc1fb586af7854ce131c1b0f987cb6a"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_rd_na@3x.png",
+      "sha1": "a2fdee1a608d8bd208b01f730c1e735d6fe5214c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_rd_SI@3x.png",
+      "sha1": "806b1766974c18fd0037d64f80c865a9b54491c6"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_rd_SU@3x.png",
+      "sha1": "b18b78eb3e3c900e2dc193ad95249607371309bf"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_sq_ctn@3x.png",
+      "sha1": "7f64a2eecf1860457a4187e0cded007f4468c11c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_sq_na@3x.png",
+      "sha1": "f569f95959e79213158b1889c0bdadfa7f3591b0"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_sq_SI@3x.png",
+      "sha1": "67dd80a1f8cf422b34f02f7ac0e810a80a060ad6"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/dark/ios_dark_sq_SU@3x.png",
+      "sha1": "9590df289c62e2612ba4aae11247a5319aa89444"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_rd_ctn@3x.png",
+      "sha1": "a86331de9c8bac8c8cbddf4c2a495f4f976096ae"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_rd_na@3x.png",
+      "sha1": "a772a34b2b22637df514ac98bc44c2f81d6837fd"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_rd_SI@3x.png",
+      "sha1": "413312a5342d66bd239093ba9d802fbe9998fee8"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_rd_SU@3x.png",
+      "sha1": "be5a71457f5c9ce0df4954569c20f0b791e65339"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_sq_ctn@3x.png",
+      "sha1": "6ae80a2652fae8a8f7ffe9e04f8312e8b6b3aaef"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_sq_na@3x.png",
+      "sha1": "3dacdfaa19079101c6e69e92e9176ac8bcbd70e7"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_sq_SI@3x.png",
+      "sha1": "53063bc0ed20866535282dd6911f24b059e60a9c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/light/ios_light_sq_SU@3x.png",
+      "sha1": "94c006f56830be7989e2cc5a1a80efe7b321924b"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_rd_ctn@3x.png",
+      "sha1": "c03fba374acf6d98fb33f3aedbdebddb264c2470"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_rd_na@3x.png",
+      "sha1": "a791d7ee40711e3eaa81851fa987408c8b55cfd5"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_rd_SI@3x.png",
+      "sha1": "9be6622008c7664a4725d9d1765f02093794bf1d"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_rd_SU@3x.png",
+      "sha1": "cf321ef00537511d8f48f8737c47569993e341c1"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_sq_ctn@3x.png",
+      "sha1": "fcb3fb3723cf0fe3d8f6a6ada324061eab411855"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_sq_na@3x.png",
+      "sha1": "9efc931f9a8024e861d8e2cc6998edc66d42256b"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_sq_SI@3x.png",
+      "sha1": "6092532b4ec83dee8bb059547e8ce753f32b218e"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@3x/neutral/ios_neutral_sq_SU@3x.png",
+      "sha1": "0fd9a0897eb829a14fd100aea03e93c73d046651"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_rd_ctn@4x.png",
+      "sha1": "fd44a857eaadc7c89e38c2431145b1016e080cd1"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_rd_na@4x.png",
+      "sha1": "16341ef4c2388c8cdc8b8a9049830f947ad99da8"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_rd_SI@4x.png",
+      "sha1": "30766a1ea7c71d1299b222cd3e143cbfea43d086"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_rd_SU@4x.png",
+      "sha1": "103c0cd296708315d69afd1682ff968a90ac4933"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_sq_ctn@4x.png",
+      "sha1": "c3034a215b4842d61b373b8aaf0b99620042c0c7"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_sq_na@4x.png",
+      "sha1": "6b10d4577279fed1ac10233b49c058f66180a1ef"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_sq_SI@4x.png",
+      "sha1": "0ceada009e2d2ddf7ea93ecc4ffd79bfda90d50c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/dark/ios_dark_sq_SU@4x.png",
+      "sha1": "11d41f8bd46b6d3588fe91dfb91f4b311eb15d70"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_rd_ctn@4x.png",
+      "sha1": "c7d5643503f9ded73c66de1b00632a9023d2c2a0"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_rd_na@4x.png",
+      "sha1": "0fd922d27a6dcd0dd2609e89eacdf5c2e2489930"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_rd_SI@4x.png",
+      "sha1": "a4a83f377ebe6988e1241a505f5e59a73e6893c3"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_rd_SU@4x.png",
+      "sha1": "778ee8c9d5d6550ab0f533418a5dfe3bb0ceeb21"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_sq_ctn@4x.png",
+      "sha1": "4e2e9e0118bb747466000dafa7abe6092a4fbdc3"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_sq_na@4x.png",
+      "sha1": "e0aaf52c9c8bd17e249b05c984956153b6e06c9a"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_sq_SI@4x.png",
+      "sha1": "8349ac0d429562f81b612d74accfc75b093cb23a"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/light/ios_light_sq_SU@4x.png",
+      "sha1": "c6652447feedf6c246ac191fdeed52ebd4a37417"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_rd_ctn@4x.png",
+      "sha1": "74a7f3b589a6e8748d8687b47e473c42bda006c0"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_rd_na@4x.png",
+      "sha1": "357deb5b29e96eb701356b6a7556bce3e2b33b65"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_rd_SI@4x.png",
+      "sha1": "0c0bd1509d1b7deacd73e1dbedabf1501a68adf0"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_rd_SU@4x.png",
+      "sha1": "d58a607800d502bddaef1089f6f0cec50dfff68a"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_sq_ctn@4x.png",
+      "sha1": "e3e2c59f831c4f8dee35f11a53a315abda00df06"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_sq_na@4x.png",
+      "sha1": "a8a0d30da9bb8f3990d985d1110fb85cfb3095c5"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_sq_SI@4x.png",
+      "sha1": "db3e08fe9b8329ee04366c0b8b2d569bf1c16c30"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/png@4x/neutral/ios_neutral_sq_SU@4x.png",
+      "sha1": "8ec531ccf7e6a5469a83f9ebac1e2d9655c30832"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_rd_ctn.svg",
+      "sha1": "35c6177242a03767097e9bba8f0ff78c56ceeeb4"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_rd_na.svg",
+      "sha1": "9755b7573c0d25f18ebfb72a914c725ad80fdb0c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_rd_SI.svg",
+      "sha1": "f4545975b399eeb989f85a326ad12c06525584ed"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_rd_SU.svg",
+      "sha1": "d9a7ea29c5c94cf95cfb914a906b353a347728f4"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_sq_ctn.svg",
+      "sha1": "ed1524334d9ce82d35e82a8458c4c4c5436aac5c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_sq_na.svg",
+      "sha1": "9b0e1881236f9264d294e35263353bb0eec09389"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_sq_SI.svg",
+      "sha1": "99b5f9441aaef455de33af0bd1819d818640e08c"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/dark/ios_dark_sq_SU.svg",
+      "sha1": "bd3d86e0882a3c5021c71cf2e08867b8eb84e7dc"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_rd_ctn.svg",
+      "sha1": "9e2b4fe349b43aea15fa291d24bda9507693a0b7"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_rd_na.svg",
+      "sha1": "d478c867381dc21de98632d3d45ffc9e70137bf9"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_rd_SI.svg",
+      "sha1": "25fb7c7106c6e605ccc78160155a73a9bb1f55c6"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_rd_SU.svg",
+      "sha1": "64487067fe986bb9b2e447ca7bcd0cfb506d2965"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_sq_ctn.svg",
+      "sha1": "d01b5052d83466269586510aa868ea2f4b25e612"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_sq_na.svg",
+      "sha1": "10b707e88f12b7856d5df9b8d0c5b4fad62b61c5"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_sq_SI.svg",
+      "sha1": "5f6690e573bfbf906c1d427987fcb318cd3debbe"
+    },
+    {
+      "path": "assets/google/signin-assets/iOS/svg/neutral/ios_neutral_sq_SU.svg",
+      "sha1": "5dd2cc3231ff42b9dde4c7655c3dd712e502c39f"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_rd_ctn@1x.png",
+      "sha1": "eed33d4aee45205d927e76a78989a13129f38cba"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_rd_na@1x.png",
+      "sha1": "ef73d537346b084bc180bcfd195b56fa264bd628"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_rd_SI@1x.png",
+      "sha1": "14720eefcbc8ff4bf6f7b5c0f6812a66b5d14e57"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_rd_SU@1x.png",
+      "sha1": "0b20116b26d776579c9ef0a50ae04c7a814d1ed9"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_sq_ctn@1x.png",
+      "sha1": "0301a89d596c40e9b1c8bd6ec19d532329170478"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_sq_na@1x.png",
+      "sha1": "cb81e44ca9585331a4b3431b4edcc8d50bf5070a"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_sq_SI@1x.png",
+      "sha1": "b7f9a6e9c976cf29959c940f14069da79f8a231d"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/dark/web_dark_sq_SU@1x.png",
+      "sha1": "4c441838334410feb60392e0462b05b2f36b74f8"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_rd_ctn@1x.png",
+      "sha1": "ed7d563765e8345669627348fb47293ed464905c"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_rd_na@1x.png",
+      "sha1": "7888573cde70568d954a76c7e6b01c0cf6173c0c"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_rd_SI@1x.png",
+      "sha1": "ed17503b10665fcc7af8ebbf838c3cced60ff941"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_rd_SU@1x.png",
+      "sha1": "1ce3972b9adbfd074dd0dbabfb26812456004b78"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_sq_ctn@1x.png",
+      "sha1": "3e83e52042e4a30e922ce39f707a71434a876ce4"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_sq_na@1x.png",
+      "sha1": "c38f7a42c9633da1b9ac12cfa0ad0af3ef15e6fc"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_sq_SI@1x.png",
+      "sha1": "0f246f3163ca2a0ef3b3747641e066f9a44599a2"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/light/web_light_sq_SU@1x.png",
+      "sha1": "f32ffeecd022f3cf42fcfcdb8b44288171a93849"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_rd_ctn@1x.png",
+      "sha1": "4f5c1e20783d7aaeb04152d78656aeeb43f477fa"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_rd_na@1x.png",
+      "sha1": "fc43e1d8193cf87883c5c3a228fd50d380c41846"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_rd_SI@1x.png",
+      "sha1": "236bae9ab3461d391a4b72fac5be48c62d11cb4c"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_rd_SU@1x.png",
+      "sha1": "9fb000aada51658a060c1a3dd3686fba68a099ac"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_sq_ctn@1x.png",
+      "sha1": "8fcf9e21b81c629e72d13305c5de4bee7064b284"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_sq_na@1x.png",
+      "sha1": "61540d47aa665d0b4c0c88f821778b897b5464c5"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_sq_SI@1x.png",
+      "sha1": "5e6fa7eaefbb5e77f5f8a78d3ac8cd78daea8f07"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@1x/neutral/web_neutral_sq_SU@1x.png",
+      "sha1": "e7aed74ac65b8e4e564047cdfdc192b93d741edc"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_rd_ctn@2x.png",
+      "sha1": "e0f1ea0945b9da0c802b5af5856f7d2d140b5008"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_rd_na@2x.png",
+      "sha1": "f1cab11d8267ec331ea287573e609da7f3c35d03"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_rd_SI@2x.png",
+      "sha1": "24c485231f14a22b800ca04f34d3a50067537931"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_rd_SU@2x.png",
+      "sha1": "94980b6360ec79be1eab17676032c3356312538a"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_sq_ctn@2x.png",
+      "sha1": "0982b960a51414e5f529d1db840210f35b353462"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_sq_na@2x.png",
+      "sha1": "37a4d1da51117dd9f778bb4fa7ce3197315b01d6"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_sq_SI@2x.png",
+      "sha1": "41534b78d8fab3ed32124d964aac73e1b6141b6f"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/dark/web_dark_sq_SU@2x.png",
+      "sha1": "fbb4fa049d25f0da1945ad09db2ecae31d9a0f36"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_rd_ctn@2x.png",
+      "sha1": "61a47a0e73304b46a34aaa7bea27326cc5562b3b"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_rd_na@2x.png",
+      "sha1": "965241ac9ef884c00be4744e3156ec8b2c7159db"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_rd_SI@2x.png",
+      "sha1": "d638f9f13aa7eacbed7d25b33c55ff5562a272db"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_rd_SU@2x.png",
+      "sha1": "f593cef49757cab9f277050f8f749859ebed6025"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_sq_ctn@2x.png",
+      "sha1": "e1bd1b8480ae2ac85d2f4a12dc6fffee65e0ef59"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_sq_na@2x.png",
+      "sha1": "7dd75770e18656c7193d9367cbf0b038392c77bd"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_sq_SI@2x.png",
+      "sha1": "7067f462aa3bbbc4ea53fcc4b09fb7cd67a5c776"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/light/web_light_sq_SU@2x.png",
+      "sha1": "d44bb45bce4152753233418e12a3c07d7e6755f6"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_rd_ctn@2x.png",
+      "sha1": "51a05768e51091616ed9dddd25aa0f9f98690c79"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_rd_na@2x.png",
+      "sha1": "70cb9a6dd902a7527dedb93e1a2b6a9bb6b3b203"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_rd_SI@2x.png",
+      "sha1": "065b3d4844de9fa2db909739199d6483301a82ba"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_rd_SU@2x.png",
+      "sha1": "503d923ed9dc6283d4cfda6cd16156a02e527037"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_sq_ctn@2x.png",
+      "sha1": "f65d5bb9d7c03e6c46258d41f5ceb77c97658f35"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_sq_na@2x.png",
+      "sha1": "6d27c2b6a1e3e15e6dcb5c4796aead239c8a2fbb"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_sq_SI@2x.png",
+      "sha1": "ded4b78909210d06cc013afa6603082ff79edc45"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@2x/neutral/web_neutral_sq_SU@2x.png",
+      "sha1": "f1ba098dedb82b893006b7888552947517296cd9"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_rd_ctn@3x.png",
+      "sha1": "a99af702f1526ee674584e931e9480a4f41931f5"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_rd_na@3x.png",
+      "sha1": "9112bdaf5382b2681901fb498a42ca70c1ace7e7"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_rd_SI@3x.png",
+      "sha1": "cf42f925bb7c54793c197863e33a8e7303c150e5"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_rd_SU@3x.png",
+      "sha1": "9fde07bda7845b04c80da6e821d9586e4d27a0f8"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_sq_ctn@3x.png",
+      "sha1": "b3c230a1f736840d30a72d77d586ea438571567e"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_sq_na@3x.png",
+      "sha1": "76c41c3130837089c8c7cafe9836407abb81d514"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_sq_SI@3x.png",
+      "sha1": "4743106859d083cf6b778423709c14900b189fe1"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/dark/web_dark_sq_SU@3x.png",
+      "sha1": "4de9850b086df411d3fe920d7cca216cf943cabf"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_rd_ctn@3x.png",
+      "sha1": "5a9d0d8d04f1af5dc4ae629a833cad994b2f89c8"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_rd_na@3x.png",
+      "sha1": "e61fe5f3202c1495c482116c462f3cabdf276bba"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_rd_SI@3x.png",
+      "sha1": "26432fb5a2917b91b0a95ead98fd0d37bade1e90"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_rd_SU@3x.png",
+      "sha1": "b27fd0481d4320c35c9d781287903120ec1c12a5"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_sq_ctn@3x.png",
+      "sha1": "2d63f114a22a2c60fd4b0248a99fea0721daf847"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_sq_na@3x.png",
+      "sha1": "d0fa606eeb5166998d76ef9c0caf2a745d639dc5"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_sq_SI@3x.png",
+      "sha1": "d8550257024ac210aa1bda151119e4c1a17eee31"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/light/web_light_sq_SU@3x.png",
+      "sha1": "0f74a89cc09ea25e1a0dde12c3e111b7d09ca05a"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_rd_ctn@3x.png",
+      "sha1": "31633b101b0d113223093b7f2d0cc8a6a7b95009"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_rd_na@3x.png",
+      "sha1": "2a972d5b39783714ddea177116fad4077203373e"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_rd_SI@3x.png",
+      "sha1": "77d8f1027071b0a5eed9ffa38a2d0a0ff35eaabb"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_rd_SU@3x.png",
+      "sha1": "bb785658631a18d9d002cea9b4d0e626b4339fff"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_sq_ctn@3x.png",
+      "sha1": "7fe0700d90f547dd5d31fe4973c944a78d03404f"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_sq_na@3x.png",
+      "sha1": "de6985e31fdbfb0044973c1a7bae8fb39805cf2e"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_sq_SI@3x.png",
+      "sha1": "d0c9eba0090ba6a610f5b2bbbc2118920d6674a5"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@3x/neutral/web_neutral_sq_SU@3x.png",
+      "sha1": "2a074c8ed6102576adf7799cdadc0afea89b8f24"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_rd_ctn@4x.png",
+      "sha1": "8bf8fd1e881902c692d12fd0575d013f894ba7c1"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_rd_na@4x.png",
+      "sha1": "1cf57650da3227931ebd642ee94c10af30ccf7a3"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_rd_SI@4x.png",
+      "sha1": "aa4fd43fe29063deaccc7871cc82cb1e32313b4d"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_rd_SU@4x.png",
+      "sha1": "3cb60013bdbb9cfad294d2430a36de6e3a5329ab"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_sq_ctn@4x.png",
+      "sha1": "a8ddfdedfd1c2a75a7f717eb0de6501d6370c3f8"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_sq_na@4x.png",
+      "sha1": "c6914e1f072627be17396eeb7dd0aaa376a3e0be"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_sq_SI@4x.png",
+      "sha1": "2eb9b6b4884d9529b44242685abf301586e8c10b"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/dark/web_dark_sq_SU@4x.png",
+      "sha1": "72333895e8db9a18f0389a461df42d3055e31045"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_rd_ctn@4x.png",
+      "sha1": "cbb0e733f41bcfe46e6c2077f3e97078f06f00cc"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_rd_na@4x.png",
+      "sha1": "991dbcd1cd4ad01aff8ed5ef17bdb52fc404e431"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_rd_SI@4x.png",
+      "sha1": "87c03714313c10fe272ad7b6671622109b875d7f"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_rd_SU@4x.png",
+      "sha1": "27d6caf35300c703747f616e1b03d1694058abfc"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_sq_ctn@4x.png",
+      "sha1": "04600196e668672845dbb155176ba1b8e19f7114"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_sq_na@4x.png",
+      "sha1": "3e65238e47a0f9821fc67d87d5ded57a427d03ce"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_sq_SI@4x.png",
+      "sha1": "bc9183051b86611d27450326ec369943523f617f"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/light/web_light_sq_SU@4x.png",
+      "sha1": "979e899f2ca4b3bc8d9aadbe7cae52ee5b119497"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_rd_ctn@4x.png",
+      "sha1": "f22588ce6db34bb2615c2e1c4b8490dea35c0541"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_rd_na@4x.png",
+      "sha1": "669540a9a8a05c0fbe88d5186cbb95bfd806f01f"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_rd_SI@4x.png",
+      "sha1": "57529f41fef8c9828fd31bcdc82f6e20cea8edc0"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_rd_SU@4x.png",
+      "sha1": "62f4364d2b35c674b72de84bd7494c00dfe1dc27"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_sq_ctn@4x.png",
+      "sha1": "a1694afc91ea8aa6bee3f8bd7f4ff55f40eb1c06"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_sq_na@4x.png",
+      "sha1": "ef7e292b898d2cddecf256ad067c4f487a6f05d4"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_sq_SI@4x.png",
+      "sha1": "3c91b7b271c3968efacc703a9464125d0266dae0"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/png@4x/neutral/web_neutral_sq_SU@4x.png",
+      "sha1": "b423b568bb0885751197c78e326844b4c14cf63b"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_rd_ctn.svg",
+      "sha1": "d7e41d60faa31472148d0bb51b7f2ef3cf39681f"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_rd_na.svg",
+      "sha1": "9459a524232eea2bb26e3095f555075ea027b0ca"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_rd_SI.svg",
+      "sha1": "d84f43a78095184d18114688d3359017205c8bd2"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_rd_SU.svg",
+      "sha1": "63a6471f90ce3f751baf2edfab1d151de396b9dd"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_sq_ctn.svg",
+      "sha1": "32aec6bf501bf8223fa018027f6a3c55b3cb1a1d"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_sq_na.svg",
+      "sha1": "ccf57ee5bee9a520354470549e97df917235aba9"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_sq_SI.svg",
+      "sha1": "84d5d22e2cfbb80b152c05dbfcebd031a60c1641"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/dark/web_dark_sq_SU.svg",
+      "sha1": "541dba829feb061d487768e2b5973d7b134a7b50"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_rd_ctn.svg",
+      "sha1": "88ab5056cb9aaac58cb159aec74c2cdd1fd34714"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_rd_na.svg",
+      "sha1": "fad5b6ecfbdfb5adc6aaa83bf20f4e45ac6ecb35"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_rd_SI.svg",
+      "sha1": "7186e78e739e92f14de57e9118e70ed55a2f086c"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_rd_SU.svg",
+      "sha1": "726ab53a8e6dd662a3942f1adde7cb85c87b1427"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_sq_ctn.svg",
+      "sha1": "24a9bf674d36565dacc3433497fa1ee3433cf6c1"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_sq_na.svg",
+      "sha1": "fb08c3d565eea163ede39209795a24c54e2dbb53"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_sq_SI.svg",
+      "sha1": "4e14e94b4915e7398f62d20836fc7117719fc1ed"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/light/web_light_sq_SU.svg",
+      "sha1": "1c0e07d6ba31bb1128a8047050d9984130cf4b12"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_rd_ctn.svg",
+      "sha1": "5c82a5763da9e6ef272cdaa44dff3d8036e60db8"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_rd_na.svg",
+      "sha1": "315bf2f5d840f94c70b6fc599a15e4d5817f9e15"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_rd_SI.svg",
+      "sha1": "066c181972a92878a2f102eee7f6077c66d463e5"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_rd_SU.svg",
+      "sha1": "63a78657c5add935d67625654b19b81f64de7190"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_sq_ctn.svg",
+      "sha1": "fd56ce6146bb519a44cbae19d0eb4604fa3d3e47"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_sq_na.svg",
+      "sha1": "73374e45e86ab78028955185d837cb3881d38c13"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_sq_SI.svg",
+      "sha1": "8e99e23df024c57c73f629be442ef56346b9cf28"
+    },
+    {
+      "path": "assets/google/signin-assets/Web (mobile + desktop)/svg/neutral/web_neutral_sq_SU.svg",
+      "sha1": "95e3c784b32efd04b46be73b76f77991a8758a19"
+    }
+  ]
+}
