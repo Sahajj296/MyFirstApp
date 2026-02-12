@@ -8,10 +8,12 @@ import {
   StyleSheet,
   Dimensions,
 } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
+import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { RootStackParamList } from './src/types/navigation';
 
-interface SplashScreenProps {
-  onGetStarted: () => void;
-}
+type SplashNavProp = 
+  NativeStackNavigationProp<RootStackParamList, 'Splash'>;
 
 const { width } = Dimensions.get('window');
 
@@ -24,7 +26,8 @@ const avatars = [
   { uri: 'https://i.pravatar.cc/100?img=6', size: 70, style: { top: 120, right: 50 } },
 ];
 
-const SplashScreen: React.FC<SplashScreenProps> = ({ onGetStarted }) => {
+const SplashScreen: React.FC = () => {
+  const navigation = useNavigation<SplashNavProp>();
   return (
     <SafeAreaView style={styles.safeArea}>
       <View style={styles.background}>
@@ -66,7 +69,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ onGetStarted }) => {
             <TouchableOpacity
               activeOpacity={0.8}
               style={styles.button}
-              onPress={onGetStarted}
+              onPress={() => navigation.navigate('GetStarted')}
             >
               <Text style={styles.buttonText}>Get Started</Text>
             </TouchableOpacity>

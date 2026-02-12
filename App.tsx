@@ -1,41 +1,33 @@
-import React, {useState} from 'react';
-import {Alert} from 'react-native';
-import SplashScreen from './SplashScreen';
-import UserTypeScreen from './UserTypeScreen';
+import { enableScreens } from 'react-native-screens';
+enableScreens();
 
-type Screen = 'splash' | 'userType';
+import React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createNativeStackNavigator }
+  from '@react-navigation/native-stack';
+import { RootStackParamList } from './src/types/navigation';
 
-function App(): React.JSX.Element {
-  const [currentScreen, setCurrentScreen] = useState<Screen>('splash');
+import LoginScreen      from './src/screens/LoginScreen';
+import GetStartedScreen from './src/screens/GetStartedScreen';
+import UserTypeScreen   from './src/screens/UserTypeScreen';
+import SignUpScreen     from './src/screens/SignUpScreen';
+import HomeScreen       from './src/screens/HomeScreen';
 
-  const handleGetStarted = () => {
-    setCurrentScreen('userType');
-  };
+const Stack = createNativeStackNavigator<RootStackParamList>();
 
-  const handleSelectUserType = (type: 'employer' | 'jobseeker') => {
-    Alert.alert(
-      'User Type Selected',
-      `You selected: ${type === 'employer' ? 'Employer' : 'Job Seeker'}`,
-      [
-        {
-          text: 'OK',
-          onPress: () => {
-            console.log(`Selected: ${type}`);
-          },
-        },
-      ],
-    );
-  };
-
-  if (currentScreen === 'splash') {
-    return <SplashScreen onGetStarted={handleGetStarted} />;
-  }
-
-  if (currentScreen === 'userType') {
-    return <UserTypeScreen onSelectType={handleSelectUserType} />;
-  }
-
-  return <></>;
+export default function App() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator
+        initialRouteName="Login"
+        screenOptions={{ headerShown: false }}
+      >
+        <Stack.Screen name="Login"      component={LoginScreen} />
+        <Stack.Screen name="GetStarted" component={GetStartedScreen} />
+        <Stack.Screen name="UserType"   component={UserTypeScreen} />
+        <Stack.Screen name="SignUp"     component={SignUpScreen} />
+        <Stack.Screen name="Home"       component={HomeScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
 }
-
-export default App;
